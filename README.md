@@ -1,4 +1,4 @@
-Got it, Atul! Here’s a tiny, no-frills setup to host a static website with Docker and build/run the image. Copy–paste friendly.
+host a static website with Docker and build/run the image.
 
 # 1) Project structure
 
