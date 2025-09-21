@@ -1,5 +1,5 @@
 // docker website hosting project 
-
+```
 1. create a repo on github docker-basic-website
 2. maintain website under site folder as a index.html
 3. write Dockerfile 
@@ -20,3 +20,4 @@ sudo docker push atuljkamble/docker-basic-website
 sudo docker run -d -p 80:80 atuljkamble/docker-basic-website
 
 6. access website on http://vm-public-ip
+```
