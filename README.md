@@ -1,4 +1,6 @@
 host a static website with Docker and build/run the image.
+![Build](https://github.com/atulkamble/docker-basic-website/actions/workflows/docker-publish.yml/badge.svg)
+
 
 # 1) Project structure
 
