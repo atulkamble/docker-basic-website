@@ -136,4 +136,4 @@ docker tag mysite:1.0 atuljkamble/mysite:1.0
 docker push atuljkamble/mysite:1.0
 ```
 
-That’s it—super light, production-safe (nginx\:alpine), and ready for your students or demos. Want me to add a Makefile or a GitHub Actions workflow to auto-build and push the image?
+That’s it—super light, production-safe (nginx\:alpine)
